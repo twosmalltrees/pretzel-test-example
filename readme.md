@@ -18,7 +18,7 @@ npm link
 #### Step Three - Clone this repo and link
 
 ```bash
-git clone <> pretzel-test-example
+git clone https://github.com/twosmalltrees/pretzel-test-example.git pretzel-test-example
 cd pretzel-test-example
 npm link pretzel-test
 ```
