@@ -23,3 +23,8 @@ cd pretzel-test-example
 npm link pretzel-test
 ```
 
+### Step Four - Test!
+
+```bash
+npm run test
+```
