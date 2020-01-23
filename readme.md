@@ -1,4 +1,4 @@
-An example using (Pretzel Test)[https://github.com/twosmalltrees/pretzel-test], (which was built in this blog post)[https://www.twosmalltrees.com/posts/building-a-javascript-test-framework].
+An example of using [Pretzel Test](https://github.com/twosmalltrees/pretzel-test), a test framework that was built in [this blog post](https://www.twosmalltrees.com/posts/building-a-javascript-test-framework).
 
 To get this working you'll need to follow the following steps:
 
