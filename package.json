@@ -1,0 +1,10 @@
+{
+  "name": "pretzel-test-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harrison Reid",
+  "license": "MIT",
+  "scripts": {
+    "test": "pretzel-test --rootDir=test --matching=/*.test.js"
+  }
+}
